@@ -13,7 +13,7 @@ configobj==5.0.6
 cryptography==3.4.8
 dbus-python==1.2.18
 distro==1.7.0
-distro-info===1.1build1
+distro-info===1.0
 Flask==2..2.5
 Flask-Cors==4.0.0
 greenlet==2.0.2
