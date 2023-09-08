@@ -1,4 +1,4 @@
-import conne
+from flask_app import conne
 from flask import  jsonify
 def select_pages():
     db_connection=conne.connection()

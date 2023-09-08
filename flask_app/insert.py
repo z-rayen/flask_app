@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
-from models import Comments ,Reaction,Post , pages
+from flask_app.models import Comments ,Reaction,Post , pages
 from sqlalchemy.sql import select
-import conne
+from flask_app import conne
 def ajout_page( pg_name):
     if pg_name=='':
         return ("can not add a page without name ! ")
