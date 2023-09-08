@@ -1,0 +1,7 @@
+# Ignore Python virtual environment directories
+
+flask_app/Include/
+flask_app/Lib/
+flask_app/Scripts/
+__pycache__/
+flask_app/pyvenv.cfg
